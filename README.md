@@ -2,7 +2,7 @@
 
 #### Last Updated: 2024-12-03
 
-Created by [@darmacode](https://github.com/darmacode) with ❤️
+Created by [@wayandarma](https://github.com/wayandarma) with ❤️
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ Before running this application, make sure you have:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/darmacode/youtube-explorer.git
+git clone https://github.com/wayandarma/youtube-explorer.git
 cd youtube-explorer
 ```
 
